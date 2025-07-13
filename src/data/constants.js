@@ -5,10 +5,10 @@ export const Bio = {
   ],
   description:
     "I am a Full Stack Developer specializing in JavaScript, with expertise in frameworks like React, Redux, Node.js, and Express.js. I build responsive, user-centric applications, handling both front-end design and back-end development. Skilled in creating intuitive interfaces and developing secure RESTful APIs, scalable APIs, I work with databases like MongoDB, MySQL, and PostgreSQL. I am committed to writing clean, efficient code and optimizing performance.I am excited to connect with like-minded professionals and explore opportunities to contribute my expertise.",
-  github: "https://github.com/vikasmishra090",
+  github: "https://github.com/mishrav0090",
   resume:
     "https://drive.google.com/file/d/1mfUpsqDJPsq3O85N-OaHjzOPhHY5k3Gd/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/vikasmishra090/",
+  linkedin: "https://www.linkedin.com/in/vikas-kumar-mishra-7595a3372/",
   twitter: "https://twitter.com",
   insta: "https://www.instagram.com/realvikaas",
   facebook: "https://www.facebook.com/",
@@ -189,11 +189,10 @@ skills: [
   {
     id: 1,
     img: "https://wearethecity.com/wp-content/uploads/2025/03/Cognizant-Logo.png",
-    role: " Software Engineer ",
+    role: " Software Engineer Trainee ",
     company: "COGNIZANT",
-    date: "July 2023 - Present",
-    desc: `Developed 25+ responsive, cross-browser compatible UIs using React.js, JavaScript (ES6+), HTML5, and CSS3. Built 10+ reusable components, improved rendering speed by 30% using React Hooks, and managed state with Context API and
-    Redux. Integrated 15+ RESTful APIs and collaborated with backend teams to ensure seamless data flow across services. Participated in 20+ Agile sprints, peer-reviewed 200+ pull requests, and maintained high code quality using Git and SonarQube.`,
+    date: "June 2022 - May 2023",
+    desc: `Developed and maintained 20+ frontend modules across internal tools, improving load time by 40 % through efficient code structuring. Integrated 4+ third-party frameworks/APIs and used CLI tools and custom scripts to streamline development workflows. Created and updated 4 fully responsive web applications, enhancing mobile user satisfaction by 60% based on internal surveys. Designed and implemented 7+ dynamic UI/UX contexts, increasing end-user interaction and reducing bounce rate by 25`,
 skills: [
   "React.js",
   "JavaScript (ES6+)",
@@ -212,11 +211,11 @@ skills: [
   {
     id: 2,
     img: "https://wearethecity.com/wp-content/uploads/2025/03/Cognizant-Logo.png",
-    role: " Software Engineer ",
+    role: "Software Engineer Intern",
     company: "COGNIZANT",
     date: "July 2023 - Present",
-    desc: `Developed 25+ responsive, cross-browser compatible UIs using React.js, JavaScript (ES6+), HTML5, and CSS3. Built 10+ reusable components, improved rendering speed by 30% using React Hooks, and managed state with Context API and
-    Redux. Integrated 15+ RESTful APIs and collaborated with backend teams to ensure seamless data flow across services. Participated in 20+ Agile sprints, peer-reviewed 200+ pull requests, and maintained high code quality using Git and SonarQube.`,
+    desc: `Built a pipeline scheduling platform and designed the front-end for operations control; deployed across 10+ engineering teams. Developed 10+ cluster-based automation projects, using cloud infrastructure (AWS/GCP) for scalable task execution. Designed 20+ web interface components for system monitoring, enabling real-time feedback and increased engineer efficiency by
+     35%.Identified and resolved performance bottlenecks in 8+ backend systems, improving API response time by 50%.`,
 skills: [
   "React.js",
   "JavaScript (ES6+)",
