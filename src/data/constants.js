@@ -264,8 +264,34 @@ export const education = [
 ];
 
 export const projects = [
-  {
+    {
     id: 0,
+    title: "E-Commerce Platform",
+    date: "Sept 2023",
+    description:
+      " Developed a full-featured e-commerce web application with user authentication, product listings, search, cart, checkout, and payment integration. Enabled role-based dashboards for admin and sellers. Implemented RESTful APIs, secure transactions, and responsive UI using React, Node.js, MongoDB, and Stripe. Ensured high performance, scalability, and seamless user experience across devices.",
+    image:
+      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
+    tags: ["React", "Node.js", "Express.js", "MongoDB", "JWT", "CSS Modules"],
+    category: "web app",
+    github: "",
+    webapp: "",
+  },
+  {
+    id: 3,
+    title: "Event Management Platform Tech Stack",
+    date: "Dec 2023",
+    description:
+      " Developed a full-stack event management platform using React, Node.js, Express.js, and MongoDB. Enabled event creation, registration, and discovery with advanced filtering and calendar-based search. Implemented secure JWT authentication, email automation via Nodemailer, and supported 200+ mock user registrations with a responsive UI built using Tailwind CSS.",
+    image:
+      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
+    tags: ["React", "Node.js", "Express.js", "MongoDB", "JWT", "Tailwind CSS"],
+    category: "web app",
+    github: "",
+    webapp: "",
+  },
+  {
+    id: 4,
     title: "Todo Web App",
     date: "Jun 2021",
     description:
