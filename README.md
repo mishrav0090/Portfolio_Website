@@ -8,7 +8,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 <img width="450px;" src="https://drive.google.com/file/d/14CCyiSoBP4YihjDr1toBx8-3xFHiNmQp/view?usp=sharing"/>
 <img width="450px;" src="https://drive.google.com/file/d/1cRphNj4VQdkt5J6tmsGm7j_DCvcL02Xn/view?usp=sharing"/>
 <img width="450px;" src="https://drive.google.com/file/d/1quHbDTaZOrY-n1nGEsjZrPs6RQ5xK0s5/view?usp=sharing"/>
-<img width="450px;" src="https://drive.google.com/file/d/1lm4cPe59O5w-UQEnq7ZoQihXOPRgsNop/view?usp=sharing"/>
+<img width="450px;" src="https://drive.google.com/file/d/1lm4cPe59O5w-UQEnq7ZoQihXOPRgsNop/view"/>
 
 
 ## Table of Contents
