@@ -271,7 +271,7 @@ export const projects = [
     description:
       " Developed a full-featured e-commerce web application with user authentication, product listings, search, cart, checkout, and payment integration. Enabled role-based dashboards for admin and sellers. Implemented RESTful APIs, secure transactions, and responsive UI using React, Node.js, MongoDB, and Stripe. Ensured high performance, scalability, and seamless user experience across devices.",
     image:
-      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
+      "https://s3u.tmimgcdn.com/1600x0/u1904510/5bff4626b8cbd57268cca87a5d086a11.jpg",
     tags: ["React", "Node.js", "Express.js", "MongoDB", "JWT", "CSS Modules"],
     category: "web app",
     github: "",
@@ -300,7 +300,7 @@ export const projects = [
       "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
     tags: ["React.Js", "Rest-API", "Javascript", "OpenAPIs", "JWT", "CSS Modules"],
     category: "web app",
-    github: "",
+    github: "https://github.com/mishrav0090/CurrencyConverter",
     webapp: "",
   },
   {
@@ -326,8 +326,8 @@ export const projects = [
       "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
     tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
-    webapp: "https://rishav-react-todo.netlify.app/",
+    github: "https://github.com/mishrav0090/NotesApp",
+    webapp: "",
   },
   {
     id: 1,
