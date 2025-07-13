@@ -277,6 +277,32 @@ export const projects = [
     github: "",
     webapp: "",
   },
+      {
+    id: 5,
+    title: "REST-Countries-API",
+    date: "June 2022",
+    description:
+      " Developed a responsive web application using the REST Countries API to display detailed information about countries, including population, region, capital, currencies, languages, and bordering nations. Implemented dark/light theme toggle and search, filter, and pagination functionalities using React.js and Tailwind CSS. Utilized React Router for seamless navigation and dynamic routing for country details. Focused on accessibility, performance optimization, and a clean, user-friendly UI across devices.",
+    image:
+      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
+    tags: ["React.Js", "Rest-API", "Javascript", "OpenAPIs", "JWT", "CSS Modules"],
+    category: "web app",
+    github: "",
+    webapp: "",
+  },
+        {
+    id: 6,
+    title: "Currency Converter",
+    date: "June 2022",
+    description:
+      " CurrencyConverter is a responsive React.js web app that enables real-time currency conversion using open REST APIs. It features a clean UI styled with CSS Modules, supports multiple currencies, and automatically fetches updated exchange rates. JWT-based user authentication ensures secure access to personalized settings. The app emphasizes smooth UX, efficient state management, and accurate financial calculations for both casual users and business scenarios.",
+    image:
+      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
+    tags: ["React.Js", "Rest-API", "Javascript", "OpenAPIs", "JWT", "CSS Modules"],
+    category: "web app",
+    github: "",
+    webapp: "",
+  },
   {
     id: 3,
     title: "Event Management Platform Tech Stack",
